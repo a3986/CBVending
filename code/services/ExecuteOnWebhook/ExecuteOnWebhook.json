@@ -1,0 +1,13 @@
+{
+    "auto_balance": false,
+    "auto_restart": null,
+    "concurrency": 0,
+    "dependencies": "log",
+    "execution_timeout": 60,
+    "logging_enabled": true,
+    "name": "ExecuteOnWebhook",
+    "params": [
+        ""
+    ],
+    "run_user": ""
+}
