@@ -1,0 +1,7 @@
+{
+    "api": null,
+    "dependencies": "",
+    "description": "A promise is an object that represents the return value or the thrown exception that the function may eventually provide. A promise can also be used as a proxy for a remote object to overcome latency. This library does not require the addition of other libraries.",
+    "name": "QPromiseLib",
+    "visibility": "system"
+}
