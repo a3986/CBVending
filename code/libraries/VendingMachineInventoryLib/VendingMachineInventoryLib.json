@@ -1,0 +1,7 @@
+{
+    "api": null,
+    "dependencies": "clearblade,log",
+    "description": null,
+    "name": "VendingMachineInventoryLib",
+    "visibility": "system"
+}
