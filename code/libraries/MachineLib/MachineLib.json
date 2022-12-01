@@ -1,0 +1,7 @@
+{
+    "api": null,
+    "dependencies": "QPromiseLib",
+    "description": "retrieves, updates, and returns bin collection data. This library only requires QPromiseLib as its additional library.",
+    "name": "MachineLib",
+    "visibility": "system"
+}
