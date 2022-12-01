@@ -1,0 +1,9 @@
+{
+    "columns": [
+        {
+            "ColumnName": "last_edge_type",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
