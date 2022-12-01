@@ -1,0 +1,105 @@
+{
+    "Description": "Default role that is applied to a user who has rights to everything",
+    "Name": "Administrator",
+    "Permissions": {
+        "AllCollections": {
+            "Level": 0
+        },
+        "AllExternalDatabases": {
+            "Level": 0
+        },
+        "AllServices": {
+            "Level": 0
+        },
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "CreateEmployee"
+            },
+            {
+                "Level": 1,
+                "Name": "GetMachineLocation"
+            },
+            {
+                "Level": 1,
+                "Name": "TempSensorTriggerHandler"
+            },
+            {
+                "Level": 1,
+                "Name": "TestCache"
+            },
+            {
+                "Level": 1,
+                "Name": "TestTimer"
+            },
+            {
+                "Level": 1,
+                "Name": "TriggerStreamService"
+            },
+            {
+                "Level": 1,
+                "Name": "WebhookCallerType1"
+            },
+            {
+                "Level": 1,
+                "Name": "WebhookCallerType2"
+            },
+            {
+                "Level": 1,
+                "Name": "WebhookCallerType3"
+            },
+            {
+                "Level": 1,
+                "Name": "WebhookCallerType4"
+            },
+            {
+                "Level": 1,
+                "Name": "WeightSensorTriggerHandler"
+            }
+        ],
+        "Collections": [],
+        "Deployments": {
+            "Level": 0
+        },
+        "DevicesList": {
+            "Level": 0
+        },
+        "EdgesList": {
+            "Level": 0
+        },
+        "ExternalDatabases": [],
+        "Files": [],
+        "ManageUsers": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 0
+        },
+        "Portals": [],
+        "Roles": {
+            "Level": 0
+        },
+        "ServiceCaches": [
+            {
+                "Level": 13,
+                "Name": "SampleCache"
+            }
+        ],
+        "Timers": {
+            "Level": 0
+        },
+        "Topics": [],
+        "Triggers": {
+            "Level": 0
+        },
+        "UsersList": {
+            "Level": 0
+        },
+        "adapters": {
+            "Level": 0
+        },
+        "usersecrets": {
+            "Level": 0
+        }
+    }
+}
