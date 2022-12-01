@@ -1,0 +1,7 @@
+{
+    "api": null,
+    "dependencies": "QPromiseLib,clearblade,log",
+    "description": null,
+    "name": "MachineLocationLibrary",
+    "visibility": "system"
+}
