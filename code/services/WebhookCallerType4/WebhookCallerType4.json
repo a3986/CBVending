@@ -1,0 +1,13 @@
+{
+    "auto_balance": false,
+    "auto_restart": null,
+    "concurrency": 0,
+    "dependencies": "log,http",
+    "execution_timeout": 60,
+    "logging_enabled": false,
+    "name": "WebhookCallerType4",
+    "params": [
+        "{\"a\":1}"
+    ],
+    "run_user": ""
+}
