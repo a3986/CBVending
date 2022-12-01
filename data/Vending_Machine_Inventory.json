@@ -1,0 +1,30 @@
+{
+    "indexes": {
+        "Total": 0,
+        "Data": []
+    },
+    "items": [],
+    "name": "Vending_Machine_Inventory",
+    "schema": [
+        {
+            "ColumnName": "vending_machine_id",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "slot",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "product_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "quantity",
+            "ColumnType": "int",
+            "PK": false
+        }
+    ]
+}
