@@ -1,0 +1,20 @@
+{
+    "indexes": {
+        "Total": 0,
+        "Data": []
+    },
+    "items": [],
+    "name": "Vending_Machines",
+    "schema": [
+        {
+            "ColumnName": "machine_id",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "machine_mode",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
