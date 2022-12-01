@@ -1,0 +1,6 @@
+{
+    "auth_method": "http_basic_auth",
+    "description": "",
+    "name": "Webhook_2_HTTP_Auth",
+    "service_name": "ExecuteOnWebhook"
+}
