@@ -1,0 +1,13 @@
+{
+    "auto_balance": false,
+    "auto_restart": null,
+    "concurrency": 0,
+    "dependencies": "log,MachineLib,clearblade",
+    "execution_timeout": 60,
+    "logging_enabled": true,
+    "name": "WeightSensorTriggerHandler",
+    "params": [
+        ""
+    ],
+    "run_user": ""
+}
