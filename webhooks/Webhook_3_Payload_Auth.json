@@ -1,0 +1,6 @@
+{
+    "auth_method": "payload_auth",
+    "description": "",
+    "name": "Webhook_3_Payload_Auth",
+    "service_name": "ExecuteOnWebhook"
+}
