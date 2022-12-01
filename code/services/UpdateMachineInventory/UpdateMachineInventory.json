@@ -1,0 +1,13 @@
+{
+    "auto_balance": false,
+    "auto_restart": null,
+    "concurrency": 0,
+    "dependencies": "log,MachineLib,clearblade",
+    "execution_timeout": 60,
+    "logging_enabled": false,
+    "name": "UpdateMachineInventory",
+    "params": [
+        "{  \"VendingMachineID\": \"1\",  \"MachineBinNumber\": \"2\",  \"Quantity\": \"3\"}"
+    ],
+    "run_user": ""
+}
