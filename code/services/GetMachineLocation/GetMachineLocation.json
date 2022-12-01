@@ -1,0 +1,13 @@
+{
+    "auto_balance": false,
+    "auto_restart": null,
+    "concurrency": 0,
+    "dependencies": "log,clearblade,MachineLocationLibrary",
+    "execution_timeout": 60,
+    "logging_enabled": false,
+    "name": "GetMachineLocation",
+    "params": [
+        ""
+    ],
+    "run_user": ""
+}
