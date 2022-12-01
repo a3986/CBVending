@@ -1,0 +1,25 @@
+{
+    "indexes": {
+        "Total": 0,
+        "Data": []
+    },
+    "items": [],
+    "name": "Employees",
+    "schema": [
+        {
+            "ColumnName": "name",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "age",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "height",
+            "ColumnType": "int",
+            "PK": false
+        }
+    ]
+}
